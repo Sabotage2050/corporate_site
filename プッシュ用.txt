@@ -1,0 +1,1 @@
+[id].js fs.readirsync delete

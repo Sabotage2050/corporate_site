@@ -1,0 +1,41 @@
+{
+  "name": "corporate_site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next build && next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "98.css": "^0.1.20",
+    "aws-sdk": "^2.1223.0",
+    "axios": "^1.6.2",
+    "csv-parse": "^5.3.0",
+    "d3": "^7.6.1",
+    "dotenv": "^16.0.2",
+    "firebase": "^9.9.4",
+    "google-map-react": "^2.2.0",
+    "intercept-stdout": "^0.1.2",
+    "next": "^14.0.3",
+    "nodemailer": "^6.7.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.34.2",
+    "react-router-dom": "^6.4.0",
+    "recoil": "^0.7.5",
+    "sharp": "^0.32.6",
+    "swiper": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.37",
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5",
+    "eslint-config-prettier": "^9.0.0",
+    "postcss": "^8.4.16",
+    "prettier": "^3.1.0",
+    "tailwindcss": "^3.1.8"
+  }
+}
